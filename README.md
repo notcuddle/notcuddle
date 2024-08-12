@@ -6,7 +6,7 @@ My name is Elias, i'm from Argentina and I'm Devops | Cloud Enginner
 
 ## Skills
 
-* Using Docker, Jenkins in production
+* Using Docker, Jenkins
 * IaC with Terraform
 * Coding in Python :)
 * Monitoring and metrics with Prometheus/Grafana
